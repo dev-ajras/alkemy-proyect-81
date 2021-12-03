@@ -1,0 +1,182 @@
+{"level":"info","message":"Server listening on"}
+info: Server listening on
+info: Server listening on
+[2021-10-09T15:18:34.550Z] info Server listening on
+[2021-10-09T15:46:17.251Z] info Server listening on
+[2021-10-09T15:50:53.033Z] [32minfo[39m Server listening on
+[2021-10-09T15:52:19.365Z] info Server listening on
+[2021-10-09T15:52:24.321Z] info Server listening on
+[2021-10-09T15:53:15.618Z] info Server listening on
+[2021-10-09T16:02:47.887Z] info Server listening on
+[10/9/2021, 6:08:53 PM] info Server listening on
+[10/9/2021, 6:41:19 PM] info Server listening on
+[9/10/2021 18:45:50] info Server listening on
+[9/10/2021 18:46:03] info Server listening on
+[9/10/2021 13:47:19] info Server listening on
+[9/10/2021 13:48:50] [32minfo[39m Server listening on
+[9/10/2021 13:49:47] [32minfo[39m Server listening on
+[9/10/2021 13:51:15] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 13:58:59] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 13:59:09] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:05:28] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:09:24] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:19:13] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:21:41] [32minfo[39m Server listening on
+[9/10/2021 14:22:00] [32minfo[39m Server listening on
+[9/10/2021 14:22:52] [32minfo[39m Server listening on
+[9/10/2021 14:23:06] [32minfo[39m Server listening on
+[9/10/2021 14:24:40] [32minfo[39m Server listening on
+[9/10/2021 14:24:52] [32minfo[39m Server listening on
+[9/10/2021 14:25:20] [32minfo[39m Server listening on
+[9/10/2021 14:26:57] [31merror[39m Server listening on
+[9/10/2021 14:28:58] [32minfo[39m Server listening on
+[9/10/2021 14:30:09] [32minfo[39m Server listening on
+[9/10/2021 14:32:42] [32minfo[39m Server listening on
+[9/10/2021 14:32:51] [32minfo[39m Server listening on
+[9/10/2021 14:33:13] [32minfo[39m Server listening on
+[9/10/2021 14:33:19] [32minfo[39m Server listening on
+[9/10/2021 14:33:31] [32minfo[39m Server listening on
+[9/10/2021 14:33:43] [32minfo[39m Server listening on
+[9/10/2021 14:33:54] [32minfo[39m Server listening on
+[9/10/2021 14:34:05] [32minfo[39m Server listening on
+[9/10/2021 14:34:33] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:34:51] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:45:33] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:46:32] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:46:55] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:50:38] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:51:59] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:53:43] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:54:43] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:54:59] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:57:48] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 14:59:49] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:00:03] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:00:09] [32minfo[39m [32mRoles found : [object SequelizeInstance:Role],[object SequelizeInstance:Role],[object SequelizeInstance:Role],[object SequelizeInstance:Role],[object SequelizeInstance:Role][39m
+[9/10/2021 15:01:11] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:01:24] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:01:58] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:02:01] [32minfo[39m [32mRoles found : [{"id":1,"name":"Admin","description":"Usuario administrador","deletedAt":null,"createdAt":"2021-10-07T20:06:03.000Z","updatedAt":"2021-10-07T20:06:03.000Z"},{"id":2,"name":"Standard","description":"Usuario regular","deletedAt":null,"createdAt":"2021-10-07T20:06:03.000Z","updatedAt":"2021-10-07T20:06:03.000Z"},{"id":3,"name":"Administrador","description":"unico que puede manejar todas las rutas","deletedAt":null,"createdAt":"2021-10-08T20:05:22.000Z","updatedAt":"2021-10-08T20:05:22.000Z"},{"id":4,"name":"Admin","description":"Usuario administrador","deletedAt":null,"createdAt":"2021-10-08T22:43:58.000Z","updatedAt":"2021-10-08T22:43:58.000Z"},{"id":5,"name":"Standard","description":"Usuario regular","deletedAt":null,"createdAt":"2021-10-08T22:43:58.000Z","updatedAt":"2021-10-08T22:43:58.000Z"}][39m
+[9/10/2021 15:21:57] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:25:27] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:28:44] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:31:27] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:32:33] [32minfo[39m [32mRole created: [object SequelizeInstance:Role][39m
+[9/10/2021 15:36:17] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:39:39] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:40:02] [32minfo[39m [32mRole created: [object SequelizeInstance:Role][39m
+[9/10/2021 15:40:17] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:42:28] [32minfo[39m [32mRole created: [object SequelizeInstance:Role][39m
+[9/10/2021 15:45:49] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 15:46:02] [32minfo[39m [32mRole created[39m
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer listening on\u001b[39m","timestamp":"9/10/2021 15:56:13"}
+[9/10/2021 15:56:42] [32minfo[39m [32mServer listening on[39m
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer listening on\u001b[39m","timestamp":"9/10/2021 15:57:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer listening on\u001b[39m","timestamp":"9/10/2021 15:59:03"}
+[9/10/2021 16:01:30] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:03:40] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:03:57] [32minfo[39m [32mRole created[39m
+[9/10/2021 16:05:17] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:05:23] [32minfo[39m [32mRole created: [object SequelizeInstance:Role][39m
+[9/10/2021 16:07:28] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:07:53] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:08:01] [32minfo[39m [32mRole created: [object SequelizeInstance:Role][39m
+undefined
+undefined
+[9/10/2021 16:16:24] [32minfo[39m "\u001b[32mServer listening on\u001b[39m"
+[9/10/2021 16:16:46] [32minfo[39m "\u001b[32mRole created: [object SequelizeInstance:Role]\u001b[39m"
+[9/10/2021 16:17:34] [32minfo[39m "\u001b[32mServer listening on\u001b[39m"
+[9/10/2021 16:17:40] [32minfo[39m "\u001b[32mRole created\u001b[39m"
+[9/10/2021 16:19:13] [32minfo[39m "\u001b[32mServer listening on\u001b[39m"
+undefined
+[9/10/2021 16:22:56] [32minfo[39m "\u001b[32mServer listening on\u001b[39m"
+[9/10/2021 16:24:20] [32minfo[39m [32mServer listening on[39m
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer listening on\u001b[39m","timestamp":"9/10/2021 16:28:08"}
+[9/10/2021 16:28:13] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:30:46] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 16:37:21] [32minfo[39m undefined
+[9/10/2021 16:37:34] [32minfo[39m [object Object]
+[9/10/2021 16:39:43] [32minfo[39m "\u001b[32mServer listening on\u001b[39m"
+[9/10/2021 16:50:05] [32minfo[39m "\u001b[32mServer listening on\u001b[39m"
+[9/10/2021 16:50:32] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 17:07:18] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 17:07:23] [32minfo[39m [32mServer listening on[39m
+[9/10/2021 17:24:18] [32minfo[39m [32mServer listening on[39m
+[16/10/2021 18:13:37] info Roles found
+[16/10/2021 18:14:32] info Role created: {"id":1,"name":"Usuario comun","description":"solo puedo ver info sin poder modificar","updatedAt":"2021-10-16T21:14:32.635Z","createdAt":"2021-10-16T21:14:32.635Z"}
+[16/10/2021 18:14:52] info Roles found
+[16/10/2021 18:15:11] info Roles found
+[16/10/2021 18:15:48] info Role created: {"id":2,"name":"Usuario comun","description":"solo puedo ver info sin poder modificar","updatedAt":"2021-10-16T21:15:47.921Z","createdAt":"2021-10-16T21:15:47.921Z"}
+[16/10/2021 19:40:37] info Roles found
+[16/10/2021 19:40:51] info Role created: {"id":9,"name":"Usuario comun","description":"solo puedo ver info sin poder modificar","updatedAt":"2021-10-16T22:40:51.449Z","createdAt":"2021-10-16T22:40:51.449Z"}
+[29/10/2021 15:13:31] warn Incorrect email or password.
+[29/10/2021 15:49:42] warn Incorrect email or password.
+[7/11/2021 14:45:50] error jwt malformed
+[7/11/2021 14:55:03] warn Email is already registered
+[7/11/2021 14:55:12] warn Email is already registered
+[7/11/2021 15:06:41] error jwt expired
+[7/11/2021 15:07:36] info New comment created succesfully: {"id":1,"newId":1,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:36.101Z","createdAt":"2021-11-07T18:07:36.101Z"}
+[7/11/2021 15:07:40] info New comment created succesfully: {"id":2,"newId":1,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:40.421Z","createdAt":"2021-11-07T18:07:40.421Z"}
+[7/11/2021 15:07:41] info New comment created succesfully: {"id":3,"newId":1,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:41.119Z","createdAt":"2021-11-07T18:07:41.119Z"}
+[7/11/2021 15:07:41] info New comment created succesfully: {"id":4,"newId":1,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:41.740Z","createdAt":"2021-11-07T18:07:41.740Z"}
+[7/11/2021 15:07:42] info New comment created succesfully: {"id":5,"newId":1,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:42.334Z","createdAt":"2021-11-07T18:07:42.334Z"}
+[7/11/2021 15:07:45] info New comment created succesfully: {"id":6,"newId":2,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:45.985Z","createdAt":"2021-11-07T18:07:45.985Z"}
+[7/11/2021 15:07:46] info New comment created succesfully: {"id":7,"newId":2,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:46.465Z","createdAt":"2021-11-07T18:07:46.465Z"}
+[7/11/2021 15:07:46] info New comment created succesfully: {"id":8,"newId":2,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:46.973Z","createdAt":"2021-11-07T18:07:46.973Z"}
+[7/11/2021 15:07:47] info New comment created succesfully: {"id":9,"newId":2,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:47.573Z","createdAt":"2021-11-07T18:07:47.573Z"}
+[7/11/2021 15:07:48] info New comment created succesfully: {"id":10,"newId":2,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:48.075Z","createdAt":"2021-11-07T18:07:48.075Z"}
+[7/11/2021 15:07:51] info New comment created succesfully: {"id":11,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:51.268Z","createdAt":"2021-11-07T18:07:51.268Z"}
+[7/11/2021 15:07:51] info New comment created succesfully: {"id":12,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:51.689Z","createdAt":"2021-11-07T18:07:51.689Z"}
+[7/11/2021 15:07:52] info New comment created succesfully: {"id":13,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:52.185Z","createdAt":"2021-11-07T18:07:52.185Z"}
+[7/11/2021 15:07:52] info New comment created succesfully: {"id":14,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:52.678Z","createdAt":"2021-11-07T18:07:52.678Z"}
+[7/11/2021 15:07:53] info New comment created succesfully: {"id":15,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T18:07:53.164Z","createdAt":"2021-11-07T18:07:53.164Z"}
+[7/11/2021 15:11:41] info List of all comments
+[7/11/2021 15:13:06] info Comment deleted
+[7/11/2021 16:31:28] info New comment created succesfully: {"id":16,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T19:31:28.782Z","createdAt":"2021-11-07T19:31:28.782Z"}
+[7/11/2021 16:33:17] info New comment created succesfully: {"id":17,"newId":3,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T19:33:17.343Z","createdAt":"2021-11-07T19:33:17.343Z"}
+[7/11/2021 16:33:56] info List of all comments
+[7/11/2021 16:56:58] warn Email is already registered
+[7/11/2021 16:59:26] info New comment created succesfully: {"id":18,"newId":14,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T19:59:26.601Z","createdAt":"2021-11-07T19:59:26.601Z"}
+[7/11/2021 16:59:29] info New comment created succesfully: {"id":19,"newId":14,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T19:59:29.804Z","createdAt":"2021-11-07T19:59:29.804Z"}
+[7/11/2021 16:59:30] info New comment created succesfully: {"id":20,"newId":14,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T19:59:30.241Z","createdAt":"2021-11-07T19:59:30.241Z"}
+[7/11/2021 16:59:44] info Comment deleted
+[7/11/2021 17:00:59] info List of all comments
+[7/11/2021 18:38:12] warn Email is already registered
+[7/11/2021 18:39:44] info New comment created succesfully: {"id":21,"newId":14,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T21:39:44.625Z","createdAt":"2021-11-07T21:39:44.625Z"}
+[7/11/2021 18:40:25] info List of all comments
+[7/11/2021 18:52:40] info New comment created succesfully: {"id":22,"newId":16,"body":"Esto es un comentario de prueba 1","userId":2,"updatedAt":"2021-11-07T21:52:40.074Z","createdAt":"2021-11-07T21:52:40.074Z"}
+[7/11/2021 18:52:43] info New comment created succesfully: {"id":23,"newId":16,"body":"Esto es un comentario de prueba 2","userId":2,"updatedAt":"2021-11-07T21:52:43.329Z","createdAt":"2021-11-07T21:52:43.329Z"}
+[7/11/2021 18:52:47] info New comment created succesfully: {"id":24,"newId":16,"body":"Esto es un comentario de prueba 3","userId":2,"updatedAt":"2021-11-07T21:52:47.462Z","createdAt":"2021-11-07T21:52:47.462Z"}
+[7/11/2021 18:52:50] info New comment created succesfully: {"id":25,"newId":16,"body":"Esto es un comentario de prueba 4","userId":2,"updatedAt":"2021-11-07T21:52:50.347Z","createdAt":"2021-11-07T21:52:50.347Z"}
+[7/11/2021 19:36:28] info New comment created succesfully: {"id":26,"newId":16,"body":"Esto es un comentario de prueba 4","userId":2,"updatedAt":"2021-11-07T22:36:28.436Z","createdAt":"2021-11-07T22:36:28.436Z"}
+[7/11/2021 19:36:29] info New comment created succesfully: {"id":27,"newId":16,"body":"Esto es un comentario de prueba 4","userId":2,"updatedAt":"2021-11-07T22:36:29.708Z","createdAt":"2021-11-07T22:36:29.708Z"}
+[7/11/2021 19:37:05] info List of all comments
+[9/11/2021 15:46:02] warn Email is already registered
+[9/11/2021 15:50:13] info New comment created succesfully: {"id":28,"newId":16,"body":"Esto es un comentario de prueba 4","userId":2,"updatedAt":"2021-11-09T18:50:13.375Z","createdAt":"2021-11-09T18:50:13.375Z"}
+[9/11/2021 15:50:56] info List of all comments
+[9/11/2021 16:00:18] info New comment created succesfully: {"id":29,"newId":16,"body":"Esto es un comentario de prueba 4","userId":2,"updatedAt":"2021-11-09T19:00:18.340Z","createdAt":"2021-11-09T19:00:18.340Z"}
+[9/11/2021 16:00:50] info List of all comments
+[9/11/2021 16:06:38] info List of all comments
+[9/11/2021 16:06:50] error 500 - Cannot read properties of null (reading 'file') - /upload - POST - ::1
+[9/11/2021 16:06:50] error TypeError: Cannot read properties of null (reading 'file')
+    at upload (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/controllers/uploadController.js:10:32)
+    at Layer.handle [as handle_request] (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/route.js:137:13)
+    at esAdminRole (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/middlewares/validarRoles.js:27:3)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[9/11/2021 16:14:24] info Comment deleted
+[9/11/2021 17:12:33] info New comment created succesfully: {"id":30,"newId":20,"body":"Esto es un comentario dentro de la demo de alkemy","userId":2,"updatedAt":"2021-11-09T20:12:33.822Z","createdAt":"2021-11-09T20:12:33.822Z"}
+[9/11/2021 17:13:06] error 500 - Not Found - //comments - GET - ::1
+[9/11/2021 17:13:06] error NotFoundError: Not Found
+    at /Users/julianajras/Documents/aceleracion-alkemy/t81-project/app.js:73:8
+    at Layer.handle [as handle_request] (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:317:13)
+    at /Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:275:10)
+    at /Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:635:15
+    at next (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/julianajras/Documents/aceleracion-alkemy/t81-project/node_modules/express/lib/router/index.js:47:12)
+[9/11/2021 17:13:22] info List of all comments
+[9/11/2021 17:14:08] info Comment deleted
